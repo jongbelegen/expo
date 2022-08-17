@@ -1,0 +1,6 @@
+framework module DevMenuRNGestureHandler {
+  umbrella header "DevMenuRNGestureHandler.h"
+
+  export *
+  module * { export * }
+}
