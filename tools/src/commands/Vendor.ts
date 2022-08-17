@@ -311,7 +311,6 @@ function getGestureHandlerPipe() {
   s.source_files = "ios/**/*.{h,m}"
 
   s.dependency "React-Core"
-
 end
 `
       })
